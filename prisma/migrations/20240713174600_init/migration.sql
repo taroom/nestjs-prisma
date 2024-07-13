@@ -5,7 +5,7 @@
 
 */
 -- DropTable
-DROP TABLE `Video`;
+DROP TABLE `video`;
 
 -- CreateTable
 CREATE TABLE `video` (
